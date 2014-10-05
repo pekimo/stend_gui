@@ -1,0 +1,65 @@
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\bin\Debug\Digital_Filter.exe
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\bin\Debug\Digital_Filter.pdb
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\Digital_Filter.Form1.resources
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+C:\Users\p.evdokimov\AppData\Local\Temporary Projects\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.exe
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.pdb
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Form1.resources
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.exe
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.pdb
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Form1.resources
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Studies\4курс летняя сессия\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+E:\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.exe
+E:\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.pdb
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Form1.resources
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+F:\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.exe
+F:\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.pdb
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Form1.resources
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.exe
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.pdb
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Form1.resources
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Studies\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+E:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.exe
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.pdb
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.exe
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\bin\Debug\Digital_Filter.pdb
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filter.Properties.Resources.resources
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Debug\Digital_Filte.Form1.resources

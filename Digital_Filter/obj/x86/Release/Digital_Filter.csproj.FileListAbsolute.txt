@@ -1,0 +1,18 @@
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Release\Digital_Filter.exe
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\bin\Release\Digital_Filter.pdb
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.Form1.resources
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.Properties.Resources.resources
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.exe
+E:\Курсовой проект Круглов\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.pdb
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filte.Form1.resources
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.Properties.Resources.resources
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.exe
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\bin\Release\Digital_Filter.exe
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\bin\Release\Digital_Filter.pdb
+D:\Studies\Programming\Курсовой проект\Digital_Filter\Digital_Filter\obj\x86\Release\Digital_Filter.pdb
